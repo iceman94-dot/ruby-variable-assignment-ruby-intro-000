@@ -1,2 +1,2 @@
-greeting
-greeting = "Hello World"
+phrase
+phrase = "Hello World"
